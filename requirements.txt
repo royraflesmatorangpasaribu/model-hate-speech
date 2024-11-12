@@ -1,0 +1,4 @@
+Python 3.11.4
+Requests==2.31.0
+pip install fastapi uvicorn
+pip install sastrawi
