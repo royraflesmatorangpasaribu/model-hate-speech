@@ -3,3 +3,12 @@ Requests==2.31.0
 pip install fastapi uvicorn
 pip install sastrawi
 uvicorn nama_file:app --reload
+
+Buka Python Shell di Terminal atau Command Prompt:
+Di terminal, ketik perintah berikut untuk masuk ke Python shell:
+python
+
+jalankan Perintah untuk Mengunduh punkt dan punkt_tab:
+import nltk
+nltk.download('punkt')
+nltk.download('punkt_tab')
